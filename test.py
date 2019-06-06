@@ -3,5 +3,6 @@ if(a>0):
     print("Given Number is Positive")
 elif(a<0):
     print("Given Number is Negative")
-else:
+elif(a==0):
     print("Given Number is Zero")
+
